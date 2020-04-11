@@ -1,0 +1,320 @@
+.container{
+    width:2000px;
+    margin:0 auto;
+    /*text-shadow: 0 0 3px red; color: white;*/
+}
+
+header{
+    background-color: papayawhip;
+    padding:5px 30px;
+    text-shadow: 0 0 3px red; color: white;
+    padding-left:300px;
+    background: url("download.jpg");
+    background-size: 300px 180px;
+      background-repeat: no-repeat;
+      padding-top: 5px;
+      padding-bottom: 5px; 
+}
+
+h3 {
+color: white;
+background-color: #cccccc;
+height:20px;
+}
+
+h4 {
+    color: white;
+    background-color: #cccccc;
+    height:40px;
+    }
+
+body 
+{ margin:auto;
+width: 90%;
+}
+
+p {
+color: grey;
+background-color: #cccccc;	
+}
+
+a.one:hover {
+    color:palevioletred;
+}
+.example-01{ 
+border:2px solid #purple;
+    
+    background:white;
+    width:950px;
+    height:150px;
+    border-radius:30px;
+
+    padding-left:220px;
+    /* border-radius:10%; */
+    -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+    position:relative; left:100px; color: darkblue;
+    /* box shadow */
+    background-position:right;
+    -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+    /* box-shadow: 50px 50px 15px 15px blue inset; */
+    box-shadow: 5px 5px 5px 5px grey;
+    
+    background: url("s-l1600.jpg");
+    
+      background-size: 200px 180px;
+      background-repeat: no-repeat;
+      padding-top: 30px;
+      padding-bottom: 30px; 
+}
+
+
+.example-02{ 
+background:white;
+    width:950px;
+    height:150px;
+    border-radius:30px;
+
+    padding-left:200px;
+    /* border-radius:10%; */
+    -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+    position:relative; left:100px; color: darkblue;
+    /* box shadow */
+    background-position:right;
+    -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+    /* box-shadow: 50px 50px 15px 15px blue inset; */
+    box-shadow: 5px 5px 5px 5px grey;
+    background: url("s-l640.jpg");
+      background-size: 200px 180px;
+      background-repeat: no-repeat;
+      padding-top: 30px;
+      padding-bottom: 30px; 
+}
+
+.example-03{ 
+    background:white;
+        width:950px;
+        height:150px;
+        border-radius:30px;
+    
+        padding-left:200px;
+        /* border-radius:10%; */
+        -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+        position:relative; left:100px; color: darkblue;
+        /* box shadow */
+        background-position:right;
+        -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+        /* box-shadow: 50px 50px 15px 15px blue inset; */
+        box-shadow: 5px 5px 5px 5px grey;
+        background: url("product_galaxys9_titaniumgray2_01.webp");
+          background-size: 150px 180px;
+          background-repeat: no-repeat;
+          padding-top: 15px;
+          padding-bottom: 30px; 
+    }
+
+.example-04{ 
+background:white;
+    width:950px;
+    height:150px;
+    border-radius:30px;
+
+    padding-left:200px;
+    /* border-radius:10%; */
+    -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+    position:relative; left:100px; color: darkblue;
+    /* box shadow */
+    background-position:right;
+    -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+    /* box-shadow: 50px 50px 15px 15px blue inset; */
+    box-shadow: 5px 5px 5px 5px grey;
+    background: url("shopping1.webp");
+    
+    background-position: left bottom, left top;
+      background-size: 200px 180px;
+      background-repeat: no-repeat;
+      padding-top: 5px;
+      padding-bottom: 55px;
+}
+
+.example-05{ 
+background:white;
+    width:950px;
+    height:150px;
+    border-radius:30px;
+
+    padding-left:200px;
+    /* border-radius:10%; */
+    -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+    position:relative; left:100px; color: darkblue;
+    /* box shadow */
+    background-position:right;
+    -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+    /* box-shadow: 50px 50px 15px 15px blue inset; */
+    box-shadow: 5px 5px 5px 5px grey;
+    background: url("shopping.jpg");
+      background-size: 200px 180px;
+      background-repeat: no-repeat;
+      padding-top: 30px;
+      padding-bottom: 30px; 
+}
+
+.example-06{
+background:white;
+    width:950px;
+    height:150px;
+    border-radius:30px;
+
+    padding-left:200px;
+    /* border-radius:10%; */
+    -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+    position:relative; left:100px; color: darkblue;
+    /* box shadow */
+    background-position:right;
+    -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+    /* box-shadow: 50px 50px 15px 15px blue inset; */
+    box-shadow: 5px 5px 5px 5px grey;
+    background: url("shopping2.webp");
+      background-size: 200px 180px;
+      background-repeat: no-repeat;
+      padding-top: 30px;
+      padding-bottom: 30px; 
+}
+
+.example-07{
+    background:white;
+        width:950px;
+        height:150px;
+        border-radius:30px;
+    
+        padding-left:200px;
+        /* border-radius:10%; */
+        -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+        position:relative; left:100px; color: darkblue;
+        /* box shadow */
+        background-position:right;
+        -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+        /* box-shadow: 50px 50px 15px 15px blue inset; */
+        box-shadow: 5px 5px 5px 5px grey;
+        background: url("shopping4.webp");
+          background-size: 180px 180px;
+          background-repeat: no-repeat;
+          padding-top: 30px;
+          padding-bottom: 30px; 
+    }
+
+    .example-08{
+        background:white;
+            width:950px;
+            height:150px;
+            border-radius:30px;
+        
+            padding-left:200px;
+            /* border-radius:10%; */
+            -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+            position:relative; left:100px; color: darkblue;
+            /* box shadow */
+            background-position:right;
+            -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+            /* box-shadow: 50px 50px 15px 15px blue inset; */
+            box-shadow: 5px 5px 5px 5px grey;
+            background: url("sho.webp");
+              background-size: 200px 180px;
+              background-repeat: no-repeat;
+              padding-top: 30px;
+              padding-bottom: 30px; 
+        }
+
+        .example-09{
+            background:white;
+                width:950px;
+                height:150px;
+                border-radius:30px;
+            
+                padding-left:200px;
+                /* border-radius:10%; */
+                -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+                position:relative; left:100px; color: darkblue;
+                /* box shadow */
+                background-position:right;
+                -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+                /* box-shadow: 50px 50px 15px 15px blue inset; */
+                box-shadow: 5px 5px 5px 5px grey;
+                background: url("sh.webp");
+                  background-size: 200px 180px;
+                  background-repeat: no-repeat;
+                  padding-top: 30px;
+                  padding-bottom: 30px; 
+            }
+
+            .example-10{
+                background:white;
+                    width:950px;
+                    height:150px;
+                    border-radius:30px;
+                
+                    padding-left:200px;
+                    /* border-radius:10%; */
+                    -moz-border-radius:25px; /* Firefox 3.6 and earlier */
+                    position:relative; left:100px; color: darkblue;
+                    /* box shadow */
+                    background-position:right;
+                    -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
+                    /* box-shadow: 50px 50px 15px 15px blue inset; */
+                    box-shadow: 5px 5px 5px 5px grey;
+                    background: url("ng.webp");
+                      background-size: 200px 180px;
+                      background-repeat: no-repeat;
+                      padding-top: 30px;
+                      padding-bottom: 30px; 
+                }
+
+.inline {
+ color:palevioletred;
+ font-weight: bold; 
+ 
+ font-size: 21px; 
+}
+
+a.one:link {font-size:20px;
+}
+
+a.one:hover {font-size:150%;
+}
+
+nav{
+    padding:8px;
+    background-color:papayawhip;
+    color: #eee;
+}
+
+nav ul li{
+    display:inline-block;
+    background-color: #444;
+}
+
+nav ul li a{
+    background-color: #444;
+    color: #eee;
+    text-decoration: none;
+    padding:0 5px;	
+    font-weight:bold;
+    text-transform: uppercase;
+    font-size:13px;
+}
+
+
+footer{
+    clear:both;
+    background-color: gray;
+    color: #eee;
+    padding:10px;
+}
+
+footer h2{
+    margin:0px;
+    text-transform: uppercase;
+    font-size:13px;
+    padding:0 5px;	
+}
+
+
