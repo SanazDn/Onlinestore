@@ -105,7 +105,7 @@ background:white;
         -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
         /* box-shadow: 50px 50px 15px 15px blue inset; */
         box-shadow: 5px 5px 5px 5px grey;
-        background: url("product_galaxys9_titaniumgray2_01.webp");
+        background: url("product.jpg");
           background-size: 150px 180px;
           background-repeat: no-repeat;
           padding-top: 15px;
@@ -127,7 +127,7 @@ background:white;
     -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
     /* box-shadow: 50px 50px 15px 15px blue inset; */
     box-shadow: 5px 5px 5px 5px grey;
-    background: url("shopping1.webp");
+    background: url("shopping1.jpg");
     
     background-position: left bottom, left top;
       background-size: 200px 180px;
@@ -173,7 +173,7 @@ background:white;
     -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
     /* box-shadow: 50px 50px 15px 15px blue inset; */
     box-shadow: 5px 5px 5px 5px grey;
-    background: url("shopping2.webp");
+    background: url("shopping2.jpg");
       background-size: 200px 180px;
       background-repeat: no-repeat;
       padding-top: 30px;
@@ -195,7 +195,7 @@ background:white;
         -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
         /* box-shadow: 50px 50px 15px 15px blue inset; */
         box-shadow: 5px 5px 5px 5px grey;
-        background: url("shopping4.webp");
+        background: url("shopping4.jpg");
           background-size: 180px 180px;
           background-repeat: no-repeat;
           padding-top: 30px;
@@ -217,7 +217,7 @@ background:white;
             -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
             /* box-shadow: 50px 50px 15px 15px blue inset; */
             box-shadow: 5px 5px 5px 5px grey;
-            background: url("sho.webp");
+            background: url("sho.jpg");
               background-size: 200px 180px;
               background-repeat: no-repeat;
               padding-top: 30px;
@@ -239,7 +239,7 @@ background:white;
                 -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
                 /* box-shadow: 50px 50px 15px 15px blue inset; */
                 box-shadow: 5px 5px 5px 5px grey;
-                background: url("sh.webp");
+                background: url("sh.jpg");
                   background-size: 200px 180px;
                   background-repeat: no-repeat;
                   padding-top: 30px;
@@ -261,7 +261,7 @@ background:white;
                     -moz-box-shadow: 10px 10px 5px #888888; /* Firefox 3.6 and earlier */
                     /* box-shadow: 50px 50px 15px 15px blue inset; */
                     box-shadow: 5px 5px 5px 5px grey;
-                    background: url("ng.webp");
+                    background: url("ng.jpg");
                       background-size: 200px 180px;
                       background-repeat: no-repeat;
                       padding-top: 30px;
